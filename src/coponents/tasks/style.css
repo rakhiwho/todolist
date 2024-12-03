@@ -1,0 +1,5 @@
+.BORDER{
+    border-width: 2px;
+    border-color: rgba(73, 32, 32 , 0.6);
+    border-radius: 15px;
+}
